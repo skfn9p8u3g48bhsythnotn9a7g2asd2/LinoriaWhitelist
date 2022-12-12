@@ -247,4 +247,5 @@ local ThemeManager = {} do
 
 	ThemeManager:BuildFolderTree()
 end
+ThemeManagerLoaded = true
 return ThemeManager
