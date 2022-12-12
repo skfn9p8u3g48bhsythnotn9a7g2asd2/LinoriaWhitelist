@@ -264,5 +264,5 @@ local SaveManager = {} do
 
 	SaveManager:BuildFolderTree()
 end
-
+SaveManagerLoaded = true
 return SaveManager
