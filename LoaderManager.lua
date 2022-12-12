@@ -257,8 +257,7 @@ if isloaded then
 
     return SaveManager
 elseif true then
-    wrapped = true
-    print('')
+    return true
 else
     local httpService = game:GetService('HttpService')
 
