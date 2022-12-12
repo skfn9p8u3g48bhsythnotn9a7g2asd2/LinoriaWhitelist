@@ -2996,5 +2996,5 @@ function Library:CreateWindow(...)
 
     return Window;
 end;
-
+LibraryLoaded = true
 return Library
